@@ -1,1 +1,0 @@
-# atividades_javascript
