@@ -1,3 +1,3 @@
 Alura
 
-(lógica de programação, atividades do curso 1)
+(lógica de programação, atividades do curso 1 e curso2)
