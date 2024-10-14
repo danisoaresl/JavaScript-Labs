@@ -1,6 +1,4 @@
-#programming_logic 
-
-#alura 
+#alura
 
 
 
